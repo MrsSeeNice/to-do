@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.4">
+  <diagram name="Page-1" id="b-ZeflWpqAL3FuAZplID">
+    <mxGraphModel dx="1026" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="V8O3Sbx9mZre7J2LvS_Z-2" value="&#xa;NavBar    &#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="40" width="840" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V8O3Sbx9mZre7J2LvS_Z-3" value="&#xa; [New Todo Form]    [Filters]  &#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="130" width="840" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V8O3Sbx9mZre7J2LvS_Z-4" value="&#xa;|          Todo List             |&#xa;| - [ ] Task 1                   |&#xa;&lt;span class=&quot;hljs-section&quot;&gt;| - [x] Task 2 (completed) &lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="180" width="840" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
